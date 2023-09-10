@@ -1,4 +1,4 @@
-# Noname Clan
+# No Name Clan
 This repository is meant to be a wiki page, go to [github.com/PizzaBurgz/Noname-Clan/wiki](https://github.com/PizzaBurgz/Noname-Clan/wiki)!
 
 
